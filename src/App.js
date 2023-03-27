@@ -12,7 +12,7 @@ function App() {
           <form className="login-form">
             <span className="login-form-title">Bem Vindo!</span>
             <span className="login-form-title">
-              <img src={jpIMG} alt="Jovem Programador" />
+              <img src={jpIMG} alt="Kleber Sanzony" />
             </span>
 
             <div className="wrap-input">
